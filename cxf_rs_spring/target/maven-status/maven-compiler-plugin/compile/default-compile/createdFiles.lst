@@ -1,0 +1,5 @@
+cn\itcast\cxf\domain\User.class
+test\RS_Client.class
+cn\itcast\cxf\service\IUserService.class
+cn\itcast\cxf\domain\Car.class
+cn\itcast\cxf\service\UserServiceImpl.class
